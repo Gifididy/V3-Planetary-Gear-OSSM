@@ -13,7 +13,9 @@ Should use less than a spool of filament.
 
 Hex cap metric screws
 
-10 x M3x12 - Endstops & rack
+3 x M3x12 - Endstops
+
+7 x M3x8 - Rack
 
 1 x M4x8 - Set screw for spindle gear 
 
@@ -27,16 +29,20 @@ Hex cap metric screws
 
 4 x M5x25 - Motor mount bolts
 
+5x M4x5.5mm wide threaded inserts - Set into top bracket and spindle gear set screw. 
+
+10 x M3 nuts
+
+6 x M4 nuts
+
+4 x M5 nuts
+
+---------
+
+2 x 8mm dowels - Each 85mm or longer
 
 4x 685ZZ Bearings - Same ones OSSM uses
 
-5x M4x5.5mm wide threaded inserts - Set into top bracket and spindle gear set screw. 
-
-3 x M3 nuts
-6 x M4 nuts
-4 x M5 nuts
-
-2 x 8mm dowels - Each 85mm or longer
 1 x MGN12H Linear rail - Same style OSSM uses. I'm using a 400mm one currently.
 
 180W servo - Recommended OSSM one

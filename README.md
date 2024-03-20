@@ -59,7 +59,7 @@ Appropriate power supply.
 
 ## Changes to code
 
-In utilities.cpp
+**In utilities.cpp**
 
 Line 502 & 533 changed to 200. (Increased homing speed)
 
@@ -67,7 +67,7 @@ Line 503 & 534 changed to -2000 & 2000 respectively. (I have not figured out how
 
 Line 481 value changed to 2.
 
-In pattern.h I disabled line 850 and 851 because those sucked to accidently switch to. 
+**In pattern.h** I disabled line 850 and 851 because those sucked to accidently switch to. 
 
 
 

@@ -1,20 +1,6 @@
 # V3-Planetary-Gear-OSSM
 My take on an OSSM variant using a planetary gear set to increase torque while still using the core hardware of the original OSSM. An easy fix for if the OSSM does not have enough torque/force for you. 
 
-Note on some of the printer settings I use.
-
-Nozzle: .6mm
-
-Layer height: .3mm
-
-Wall, top & bottom thickness: 1.2mm
-
-Infill: 30%
-
-Some support is needed for the planet carrier and the top motor mount that has the planet carrier bearing screw. Depending on your settings, you may be able to not use any support material at all. 
-
-Should use less than a spool of filament. I've been using PLA for reference. 
-
 ## Hardware
 
 Hex cap metric screws
@@ -68,6 +54,24 @@ Line 503 & 534 changed to -2000 & 2000 respectively. (I have not figured out how
 Line 481 value changed to 2.
 
 **In pattern.h** I disabled line 850 and 851 because those sucked to accidently switch to. 
+
+## Printed parts notes
+
+Note on some of the printer settings I use.
+
+Nozzle: .6mm
+
+Layer height: .3mm
+
+Wall, top & bottom thickness: 1.2mm
+
+Infill: 30%
+
+Some support is needed for the planet carrier and the top motor mount that has the planet carrier bearing screw. Depending on your settings, you may be able to not use any support material at all. 
+
+Should use less than a spool of filament. I've been using PLA for reference. 
+
+"2 Pin bracket" is the height-adjust bracket that can be mounted to a piece of plywood or other available large flat surface. Will need to print two of these. This version is symmetric and does not need to be mirrored. 
 
 
 

@@ -64,8 +64,7 @@ Optional
 
 line 60 from 6 to 4 (Less dead space from homing. Gives a little bit more useable distance)
 
-line 65 from 100 to 1000 (More smoothly transitions directions)
-
+~~line 65 from 100 to 1000 (More smoothly transitions directions)~~ Found this to cause the servo to stop moving at lower speeds which is what causes over current protection. 
 
 ## Printed parts notes
 
